@@ -10,7 +10,7 @@ public class DecodeWays {
             int oneDigit = Integer.valueOf(s.substring(i - 1, i));
             int twoDigit = Integer.valueOf(s.substring(i - 2, i));
             if (oneDigit >= 1) {
-                dp[i] += dp[i -1];
+                dp[i] += dp[i - 1];
             }
             if (twoDigit >= 10 && twoDigit < 27) {
                 dp[i] += dp[i - 2];

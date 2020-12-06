@@ -1,7 +1,5 @@
 package strings.medium.RestoreIpAddresses;
 
-import strings.easy.ValidPalindrome2.ValidPalindrome2;
-
 public class Main {
 
     public static void main(String args[]) {
