@@ -1,4 +1,4 @@
-package arrays.hard.findMedianSortedArrays;
+package arrays.hard.FindMedianSortedArrays;
 
 public class Main {
 

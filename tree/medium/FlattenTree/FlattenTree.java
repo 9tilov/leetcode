@@ -1,4 +1,4 @@
-package tree.medium.flattenTree;
+package tree.medium.FlattenTree;
 
 import tree.support.TreeNode;
 
